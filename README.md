@@ -8,6 +8,8 @@ Additionally, the password cannot contain any popular, easy-to-guess password. S
 My reasoning for choosing an Apache license is because I am not the most adept developer and I am not a security expert. By making this program open source, other people will be able to improve on my initial
 contributions to this project to make an improve product for everybody. My biggest goal is to make a tool that is the most functional for protecting people in terms of password security. I do not want to make it proprietary because I want to contribute something for "the greater good". 
 
+Usage: This code may be used for redistribution. Contribution is welcome and you may copyright any derivatives of the code that are created. 
+
 How to run it: The user only needs to input their "password candidate" as a parameter into the passwordValidator function. After running, the user will get a response of whether their password was secure or not. 
 
 Limitations: I understand that inputting sensitive information, like a password, can be very dangerous for many people. This program does not send any data to a database, it only runs locally. Additionally, it is only used for educational use and may need improvements in order for it to be fully functional in an open source setting. 
